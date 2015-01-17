@@ -1,15 +1,14 @@
 	//
-		Ben Reynolds - 13309656
+		Ben Reynolds 
 		Web design project 2014.
 	Project Analysis:
 
-	I've choosen Question 2(a) as my project detail.
 	The aim of my Project is to create a blog or article style website to promote high level ameteur golf in Ireland,
 	there are many utilities out there to make blogs like wordpress but i wanted to attempt to make the back-end work myself using
 	php and mysql, it took me a long time to figure out how to use and implement databases so i started by loading the most recent news 
 	using jquery .load() function before it became more apparent i needed to implement mysql.
 
-	My Site is hosted on http://iprotectors.net/a/.
+	The Site is not hosted at the moment.
 	
 	 I've also included a file with images of each page incase you have any difficulty marking the site.
 	
